@@ -11,8 +11,8 @@ from PIL import Image, ImageDraw
 
 # --- FINAL PRODUCTION TIMINGS (Milliseconds) ---
 WORK_DURATION = 20 * 60 * 1000     # 20 minutes
-BREAK_DURATION = 40 * 1000         # 40 seconds total break
-MID_BREAK_TIME = 20 * 1000         # 20 seconds into the break
+BREAK_DURATION = 60 * 1000         # 40 seconds total break
+MID_BREAK_TIME = 30 * 1000         # 20 seconds into the break
 
 # WORK_DURATION = 20 * 1000      # 20 seconds
 # BREAK_DURATION = 10 * 1000     # 10 seconds total break
